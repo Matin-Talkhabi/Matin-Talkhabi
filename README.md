@@ -1,5 +1,5 @@
-[<h1 align="center">سلام، من متین ام 👋</h1>
-<h3 align="center">دانشجوی مهندسی کامپیوتر و برنامه‌نویس فول‌استک با علاقه به ساخت چیزهای باحال 😄</h3>
+<h1 align="center">سلام، من متین ام 👋</h1>
+<h3 align="center">دانشجوی مهندسی کامپیوتر و برنامه‌نویس فول‌استک</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Full-Stack+Developer;Python+%7C+Django+%7C+Tailwind+CSS;Always+Learning+%F0%9F%93%9A;Code%2C+Debug%2C+Repeat+%F0%9F%94%A5" alt="Typing SVG" />
@@ -38,6 +38,5 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KMmatin_00)
 
----
 
 
