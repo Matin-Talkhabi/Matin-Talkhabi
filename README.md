@@ -40,16 +40,14 @@
 
 <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=Matin-Talkhabi&no-frame=true&theme=darkhub&row=1&column=7&title=MultiLanguage,Repositories,Followers,Commits,Issues,PullRequest,Stars" /></a>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Matin-Talkhabi&theme=2077" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Matin-Talkhabi&theme=2077" />
-
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Matin-Talkhabi&theme=2077" />[<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Matin-Talkhabi&theme=neon-dark&hide_border=true&" alt="Matin-Talkhabi" /></p>]()
 ![Profile views](https://komarev.com/ghpvc/?username=Matin-Talkhabi&color=brightgreen&style=for-the-badge)
 
 ---
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 </p>
-
+## 📬 ارتباط با من | Contact Me
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KMmatin_00)
 
