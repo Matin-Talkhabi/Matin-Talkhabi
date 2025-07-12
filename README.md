@@ -1,4 +1,3 @@
-<h1 align="center">سلام، من متینم 👋</h1>
 <h3 align="center">👨‍💻Computer Engineering Student & Full-Stack Developer</h3>
 <h3 align="center"> دانشجوی مهندسی کامپیوتر و توسعه‌دهنده فول‌استک</h3>
 
